@@ -6,7 +6,7 @@
 ## pipenv install reportlab
 ## pipenv run python reading.py
 
-## scanning searchable pdf fro text
+## scanning searchable pdf from text
 
 from pypdf import PdfReader
 
